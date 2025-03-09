@@ -1,2 +1,10 @@
-# Embedded-Systems-Homework
-Homework commit.
+# 嵌入式系统课程作业
+
+## 作业需求
+- 开发环境：Keil MDK + STM32F103
+- 功能要求：实现LED呼吸灯、串口通信
+- 提交内容：源代码、设计文档、演示视频
+
+## 版权说明
+- 本项目采用 [MIT License](LICENSE) 开源协议
+- 版权所有 © 2025 qtfyreg23
