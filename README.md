@@ -7,4 +7,4 @@
 
 ## 版权说明
 - 本项目采用 [MIT License](LICENSE) 开源协议
-- 版权所有 © 2025 qtfyreg23
+- 版权所有 © 2025  qtfyreg23
